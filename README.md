@@ -24,4 +24,4 @@ npm run dev
 This project is licensed under the MIT License.
 
 ## Project Live Here-
-weather-application-using-react-7u5y9faio-nijhumtaras-projects.vercel.app
+https://weather-application-using-react-7u5y9faio-nijhumtaras-projects.vercel.app
